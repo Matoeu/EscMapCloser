@@ -1,0 +1,29 @@
+# VS / C#
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# build artefacts
+**/bin/
+**/obj/
+**/log/
+**/Temp/
+
+# Rider
+.idea/
+
+# caches / misc
+*.pdb
+*.cache
+*.tmp
+*.bak
+*.swp
+
+# local libs
+lib/
+
+# OS
+.DS_Store
+Thumbs.db
